@@ -3,8 +3,6 @@
 ### 👨🏻‍💻&nbsp;About Me
  
 &nbsp;Sophomore, Department of Computer Science and Technology, Harbin University of Technology\
-&nbsp;Love life, love programming, love open source\
-&nbsp;Have a strong desire to explore technology, like to solve practical problems by programming\
 &nbsp;Strive to be an excellent programmer and create many meaningful open source projects\
 &nbsp;Main programming language：Java Go\
 &nbsp;Blog：www.linhaojun.top\
