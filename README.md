@@ -9,6 +9,6 @@
 ### GitHub Analytics
 
 <span>
-   <img align="" height="128px" src="https://github-readme-stats.vercel.app/api?username=linhaojun857&include_all_commits=true&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&line_height=21"/>
-   <img align="" height="128px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linhaojun857&hide_title=true&layout=compact"/>
+   <img align="" height="129px" src="https://github-readme-stats.vercel.app/api?username=linhaojun857&include_all_commits=true&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&line_height=21"/>
+   <img align="" height="129px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linhaojun857&hide_title=true&layout=compact"/>
 </span>
