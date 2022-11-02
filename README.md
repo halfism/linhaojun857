@@ -10,7 +10,9 @@
 &nbsp;博客：www.linhaojun.top\
 &nbsp;邮箱：lhj13401792631@163.com
 
-<a href="https://github.com/linhaojun857">
+<!-- <a href="https://github.com/linhaojun857">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=linhaojun857&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_title=true"/>
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linhaojun857&layout=compact&langs_count=8&theme=algolia&hide_title=true"/>
 </a>
+ -->
+ <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=linhaojun857&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=algolia&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linhaojun857&hide_title=true&hide_border=true&layout=compact&theme=algolia&locale=cn" />
