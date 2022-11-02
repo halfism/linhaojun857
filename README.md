@@ -8,4 +8,7 @@
 - 博客：www.linhaojun.top
 - 邮箱：lhj13401792631@163.com
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=linhaojun857&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linhaojun857&hide_title=true&hide_border=true&layout=compact&locale=cn" />
+<a href="https://github.com/linhaojun857" target="_blank">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=linhaojun857&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=linhaojun857&layout=compact&langs_count=8&theme=algolia"/>
+</a>
