@@ -6,12 +6,6 @@
 - Strive to be an excellent programmer and create many meaningful open source projects
 - Main programming languages: Java Go
 
-### Contact me
-
-- QQ: 1909925152
-- Blog: https://www.linhaojun.top
-- Email: lhj13401792631@163.com
-
 ### GitHub Analytics
 
 <a href="https://github.com/linhaojun857">
