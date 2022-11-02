@@ -4,9 +4,7 @@
  
 &nbsp;Sophomore, Department of Computer Science and Technology, Harbin University of Technology\
 &nbsp;Strive to be an excellent programmer and create many meaningful open source projects\
-&nbsp;Main programming language：Java Go\
-&nbsp;Blog：www.linhaojun.top\
-&nbsp;Email：lhj13401792631@163.com
+&nbsp;Main programming language：Java Go
 
 ### &nbsp;GitHub Analytics
 <span>
