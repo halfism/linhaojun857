@@ -1,3 +1,3 @@
 - Sophomore, Department of Computer Science and Technology, Harbin University Of Science And Technology
 - Strive to be an excellent programmer and create many meaningful open source projects
-- Main programming languages: Java Go
+- Main programming languages: Java Go JavaScript
