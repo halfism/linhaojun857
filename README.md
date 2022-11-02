@@ -24,7 +24,7 @@ func GetBio() Bio {
 		"Looking to collaborate on": "Java, Golang related projects",
 		"Ask me about":              "Anything related to what I am currently learning",
 		"The direction of efforts":  "Be an excellent programmer and create many meaningful open source projects",
-		"Personal blog":             "www.linhaojun.top",
+		"Personal blog":             "https://www.linhaojun.top",
 	}
 }
 ```
