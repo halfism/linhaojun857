@@ -19,7 +19,7 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"Educational experience":    "Sophomore, Department of Computer Science and Technology, Harbin University Of Science And Technology",
+		"Educational experience":    "Sophomore reading, Department of Computer Science and Technology, Harbin University Of Science And Technology",
 		"Currently learning":        "Java Go MySQL Redis Kafka MongoDB ElasticSearch",
 		"Looking to collaborate on": "Java, Go related projects",
 		"Ask me about":              "Anything related to what I am currently learning",
