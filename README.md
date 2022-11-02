@@ -8,7 +8,6 @@
 
 ### Contact me
 
-- QQ：1909925152
 - Blog：https://www.linhaojun.top
 - Email：lhj13401792631@163.com
 
