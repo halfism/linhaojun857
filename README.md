@@ -21,7 +21,7 @@ func GetBio() Bio {
 	return Bio{
 		"Educational experience":    "Sophomore, Department of Computer Science and Technology, Harbin University Of Science And Technology",
 		"Currently learning":        "Java Go MySQL Redis Kafka MongoDB ElasticSearch",
-		"Looking to collaborate on": "Java, Golang related projects",
+		"Looking to collaborate on": "Java, Go related projects",
 		"Ask me about":              "Anything related to what I am currently learning",
 		"The direction of efforts":  "Be an excellent programmer and create many meaningful open source projects",
 		"Personal blog":             "https://www.linhaojun.top",
