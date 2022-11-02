@@ -1,5 +1,7 @@
 ### Hi 👋，I'm 花未眠
  
+ <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+ 
 - 哈尔滨理工大学 计算机系 大二
 - 热爱生活，热爱编程，热爱开源
 - 对于技术有着极强的探索欲
